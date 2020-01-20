@@ -1,4 +1,4 @@
-# Front-End Age Validator + Book Recommender
+# PHP Receipt Generator
 
 ## Assignment Information
 Week 1 Programming Lab
